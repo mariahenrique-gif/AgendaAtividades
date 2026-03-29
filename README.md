@@ -62,4 +62,3 @@ AgendaAtividades/
 
 ## Autoria
 Projeto desenvolvido por **Maria Heloisa Henrique**, como parte de estudos de programação orientada a objetos em Java.
-👉 Maria, você gostaria que eu já montasse esse README em **Markdown com imagens ilustrativas** (ex: mostrando a capa e a tela com botões), para ficar ainda mais parecido com um sistema real documentado?
